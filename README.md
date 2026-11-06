@@ -6,9 +6,8 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
-<img width="1024" height="1536" alt="eu" src="https://github.com/user-attachments/assets/754602f9-be52-4494-b3db-b86a16c1adeb" />
+<img width="1240" height="1754" alt="eu" src="https://github.com/user-attachments/assets/754602f9-be52-4494-b3db-b86a16c1adeb" />
 
 
 
